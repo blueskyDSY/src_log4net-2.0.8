@@ -1,0 +1,5 @@
+e:\AllGRG\8-GRGStudy\SrcTry\C#\类库dll-开源\log4net-2.0.8\log4net-2.0.8-src\tests\bin\Debug\log4net.Tests.dll
+e:\AllGRG\8-GRGStudy\SrcTry\C#\类库dll-开源\log4net-2.0.8\log4net-2.0.8-src\tests\bin\Debug\log4net.Tests.pdb
+e:\AllGRG\8-GRGStudy\SrcTry\C#\类库dll-开源\log4net-2.0.8\log4net-2.0.8-src\tests\src\obj\Debug\log4net.Tests.vs2012.csprojResolveAssemblyReference.cache
+e:\AllGRG\8-GRGStudy\SrcTry\C#\类库dll-开源\log4net-2.0.8\log4net-2.0.8-src\tests\src\obj\Debug\log4net.Tests.dll
+e:\AllGRG\8-GRGStudy\SrcTry\C#\类库dll-开源\log4net-2.0.8\log4net-2.0.8-src\tests\src\obj\Debug\log4net.Tests.pdb
